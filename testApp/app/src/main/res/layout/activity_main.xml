@@ -10,17 +10,17 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Press the Button to get the Time!"
+        android:text="Click button to change to CAPTCHA view"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/getTimeBtn"
+        android:id="@+id/changeActBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Get Time"
+        android:text="Change Activity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
